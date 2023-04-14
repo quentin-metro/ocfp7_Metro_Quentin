@@ -23,3 +23,4 @@ Programme d'algorithme de stratégies d'investissement, version bruteforce et op
 ## Le fichier de donnée
 - Celui-ci est nommé par défaut `dataset.csv` ou modifier la constante DATA_FILES
 - Le fichier doit contenir trois colonnes correspondant à `name` `price` `profit`
+  - `profit` est un pourcentage et doit être de format 'X%' ou 'XX,XX'
